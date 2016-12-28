@@ -6,13 +6,6 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-    "bluebird": "^3.4.7",
-    "chai-as-promised": "^6.0.0",
-    "chai": "^3.5.0",
-    "mocha-testdata": "^1.2.0",
-    "sinon": "^1.17.6"
-  },
   "devDependencies": {
     "bluebird": "^3.4.7",
     "chai": "^3.5.0",
