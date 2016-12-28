@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jasperck/timer-stopwatch.git"
+    "url": "git+ssh://git@github.com/jasperck/promise-timer-stopwatch.git"
   },
   "author": "JasperChang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jasperck/timer-stopwatch/issues"
+    "url": "https://github.com/jasperck/promise-timer-stopwatch/issues"
   },
-  "homepage": "https://github.com/jasperck/timer-stopwatch#readme"
+  "homepage": "https://github.com/jasperck/promise-timer-stopwatch#readme"
 }
