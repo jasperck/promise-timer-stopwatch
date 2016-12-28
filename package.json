@@ -1,0 +1,37 @@
+{
+  "name": "timer-stopwatch",
+  "version": "1.0.0",
+  "description": "A stopwatch supports promise usage for node.js with 0 dependency",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "chai-as-promised": "^6.0.0",
+    "chai": "^3.5.0",
+    "mocha-testdata": "^1.2.0",
+    "sinon": "^1.17.6"
+  },
+  "devDependencies": {
+    "bluebird": "^3.4.7",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.6"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jasperck/timer-stopwatch.git"
+  },
+  "author": "JasperChang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasperck/timer-stopwatch/issues"
+  },
+  "homepage": "https://github.com/jasperck/timer-stopwatch#readme"
+}
