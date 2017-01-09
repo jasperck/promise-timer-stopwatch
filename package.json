@@ -1,6 +1,6 @@
 {
   "name": "promise-timer-stopwatch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A stopwatch supports promise usage for node.js with 0 dependency",
   "main": "index.js",
   "directories": {
