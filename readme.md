@@ -1,5 +1,5 @@
-Timer-Stopwatch
-===============
+Promise-Timer-Stopwatch
+=======================
 A stopwatch supports **promise** usage for node.js with **0** dependency
 
 [![Build Status](https://travis-ci.org/jasperck/promise-timer-stopwatch.svg?branch=master)](https://travis-ci.org/jasperck/promise-timer-stopwatch)
